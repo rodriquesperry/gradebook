@@ -1,0 +1,15 @@
+/Users/rodriquesperry/Dropbox/Mac/Desktop/gradebook/src/GradeBook/bin/Debug/net6.0/GradeBook
+/Users/rodriquesperry/Dropbox/Mac/Desktop/gradebook/src/GradeBook/bin/Debug/net6.0/GradeBook.deps.json
+/Users/rodriquesperry/Dropbox/Mac/Desktop/gradebook/src/GradeBook/bin/Debug/net6.0/GradeBook.runtimeconfig.json
+/Users/rodriquesperry/Dropbox/Mac/Desktop/gradebook/src/GradeBook/bin/Debug/net6.0/GradeBook.dll
+/Users/rodriquesperry/Dropbox/Mac/Desktop/gradebook/src/GradeBook/bin/Debug/net6.0/GradeBook.pdb
+/Users/rodriquesperry/Dropbox/Mac/Desktop/gradebook/src/GradeBook/obj/Debug/net6.0/GradeBook.csproj.AssemblyReference.cache
+/Users/rodriquesperry/Dropbox/Mac/Desktop/gradebook/src/GradeBook/obj/Debug/net6.0/GradeBook.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rodriquesperry/Dropbox/Mac/Desktop/gradebook/src/GradeBook/obj/Debug/net6.0/GradeBook.AssemblyInfoInputs.cache
+/Users/rodriquesperry/Dropbox/Mac/Desktop/gradebook/src/GradeBook/obj/Debug/net6.0/GradeBook.AssemblyInfo.cs
+/Users/rodriquesperry/Dropbox/Mac/Desktop/gradebook/src/GradeBook/obj/Debug/net6.0/GradeBook.csproj.CoreCompileInputs.cache
+/Users/rodriquesperry/Dropbox/Mac/Desktop/gradebook/src/GradeBook/obj/Debug/net6.0/GradeBook.dll
+/Users/rodriquesperry/Dropbox/Mac/Desktop/gradebook/src/GradeBook/obj/Debug/net6.0/refint/GradeBook.dll
+/Users/rodriquesperry/Dropbox/Mac/Desktop/gradebook/src/GradeBook/obj/Debug/net6.0/GradeBook.pdb
+/Users/rodriquesperry/Dropbox/Mac/Desktop/gradebook/src/GradeBook/obj/Debug/net6.0/GradeBook.genruntimeconfig.cache
+/Users/rodriquesperry/Dropbox/Mac/Desktop/gradebook/src/GradeBook/obj/Debug/net6.0/ref/GradeBook.dll
