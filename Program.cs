@@ -1,11 +1,12 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-double[] numbers = new double[3];
-numbers[0] = 12.7;
-numbers[1] = 2.3;
-numbers[2] = 1.1;
+var numbers = new[] {12.7, 2.3, 1.1, 4.2};
 
-double sum = numbers[0] + numbers[1] + numbers[2];
+var sum = 0.0;
+foreach(var number in numbers) {
+   sum += number;
+   
+}
 
 Console.WriteLine(sum);
 
